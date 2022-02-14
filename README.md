@@ -5,7 +5,7 @@ Calculating an 8, 16, or 32 bit checksum on an ASCII input file
 
 Author: Harry James Hocker\
 Created: November 12th, 2021\
-Language: C\
+Language: C
 
 To Compile:  gcc -o checksum checksum.c
 
